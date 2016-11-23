@@ -1,0 +1,229 @@
+@media screen and (min-width: 1200px){
+    
+   #weare {
+        height: 100vh;
+    }  
+    #expert {
+        height: 100vh;
+    }
+    .contact_us {
+        height: 560px;
+    }  
+    .working_process {
+        
+        background-image: url("../images/750wp.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 920px;
+    }
+    
+    .working_process .top {
+        margin-top: 680px;
+        
+    }                  
+      
+    
+}  
+
+
+
+@media screen and (min-width: 990px) and (max-width: 1200px)
+                /* Desktop */ {
+  body {
+    
+      
+      
+  }
+    #weare {
+        height: 100vh;
+    }  
+    #expert {
+        height: 100vh;
+    }
+    .contact_us {
+        height: 560px;
+    }
+    .pricing1 button {
+    position: absolute;
+    top: 382px;
+    width: 40%;
+    left: 75px;
+    color: black;
+}
+  .working_process {
+        background-color: beige;
+        background-image: url("../images/750wp.png");
+        background-repeat: no-repeat;
+      background-position: center;
+        height: 920px;
+    }
+    
+    .working_process .top {
+        margin-top: 685px;
+        
+    }                  
+                
+                    
+}
+
+
+
+
+
+@media screen  and (max-width: 989px) and (min-width: 626px)/* Tablet */ {
+       
+    #weare {
+        height: 100vh;
+    }
+    .expertise{
+        height: 980px;
+    }
+    .services{
+        height: 1000px;
+    }
+    .pricing{
+        height: 1350px;
+        
+        
+    }
+    
+    .pricing1 button {
+    position: absolute;
+    top: 479px;
+    width: 45%;
+    left: 84px;
+    color: black;
+}
+    .pricing{
+            height: 1480px;
+            text-align: center;
+    }
+    .working_process {
+        background-image: url("../images/650wp.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 920px;
+    }
+    
+    .working_process .top {
+        margin-top: 660px;
+        
+    }
+    
+   .margin_exp{
+    margin-left: 40%;
+} 
+    
+}
+
+
+@media screen  and (max-width: 625px) and (min-width: 501px)/* Tablet */ {
+    
+    #weare {
+        height: 100vh;
+    }
+    .expertise{
+        height: 980px;
+    }
+    .services{
+        height: 1000px;
+    }
+    .pricing{
+        height: 1350px;
+        
+        
+    }
+    
+    .pricing1 button {
+    position: absolute;
+    top: 479px;
+    width: 45%;
+    left: 84px;
+    color: black;
+}
+    
+    .pricing{
+            height: 2420px;
+            text-align: center;
+    }
+    .working_process {
+        background-image: url("../images/650wp.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 920px;
+    }
+    
+    .working_process .top {
+        margin-top: 660px;
+        
+    }
+    
+    .expertise .mar_left{
+        margin-left: 5%;
+        
+    }
+    
+    .margin_exp{
+    margin-left: 40%;
+}
+}
+
+
+
+@media screen and (max-width: 500px) /* Mobile */ {
+    
+    
+    #weare {
+        height: 100vh;
+    }
+    
+    #weare h1{
+        font-size: 3.5em;
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    
+    #weare h4{
+        margin-top: 25%;
+        font-size: 2em;
+    }
+    
+    
+    .expertise{
+        height: 1075px;
+    }
+    .services{
+        height: 1000px;
+    }
+    
+    .pricing{
+        height: 2420px;
+        text-align: center;
+     }
+    
+    .working_process {
+        background-image: url("../images/350wp.png");
+        background-repeat: no-repeat;
+        height: 520px;
+    }
+    
+    .working_process .top {
+        margin-top: 310px;
+        
+    }
+    .border {
+        margin-bottom: 50px;
+        
+    }
+    .mar_top1{
+        margin-top: 20px;
+        
+    }
+    
+    .margin1{
+        margin-left: 0px;
+        
+    }
+    
+    
+}
